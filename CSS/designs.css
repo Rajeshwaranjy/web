@@ -1,0 +1,49 @@
+.middle{
+    display: flex;
+    background-color:transparent;
+    backdrop-filter: blur(5px);
+     
+    border-style:solid;
+    border-color:rgb(180, 180, 180);
+    border-radius: 5%;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.box input{
+        
+        border-radius:20px;
+        font-size: large;
+        outline-color: white;
+        background-color: transparent;
+        flex-wrap: wrap;
+}
+.buton button{
+    color: white;
+    background-color: transparent;
+    font-size: x-large;
+    cursor: grab;
+    border-color: black;
+    border-radius: 50px;
+}
+body{
+    background:url(../Images/bgimg.PNG)
+    no-repeat;
+    background-size: 100% 100%;
+    color: white;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: 180px;
+}
+h6{
+    color:white;
+}
+::placeholder{
+    text-align: center;
+}
+.box img{
+    border-color: antiquewhite;
+}
+.mimg{
+    border-color: aliceblue;
+}

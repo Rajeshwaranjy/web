@@ -1,0 +1,14 @@
+body{
+    background-color: yellowgreen;
+    font-weight: bold;
+    font-style:serif;
+}
+h1{
+    align-self: center;
+    color: brown;
+}
+.menu li a{
+    text-decoration: none;
+    display:inline;
+    float:center ;
+}

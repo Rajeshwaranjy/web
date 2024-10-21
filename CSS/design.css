@@ -1,0 +1,94 @@
+body{
+    background:linear-gradient(rgb(56, 56, 196),rgb(0, 255, 213),rgb(24, 248, 24),yellow,rgb(218, 138, 151),
+    rgb(214, 139, 0),rgb(255, 84, 141),red);
+    padding-left: 4%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 4%;
+}
+img{
+    border-style: ridge;
+    border-color: black;
+    padding: 5px;
+    background-color: black;
+    
+}
+#search{
+    float: left;
+    width: auto;
+    display: flex;
+    padding-bottom: 15px;
+    padding-right: 10px;
+}
+#search1{
+    float: right;
+    width: auto;
+    display: flex;
+    padding-bottom: 15px;
+    padding-left: 0px;
+    padding-right: 20px;
+}
+#search3{
+    float: left;
+    width: auto;
+    display: flex;
+    padding-bottom: 15px;
+    padding-right: 10px;
+}
+#search4{
+    font-size:x-large;
+    display: flex;
+    padding: 20px 20px 20px 20px;
+}
+.img1{
+    float: right;
+    padding: 10px;
+}
+.img1{
+    float: right;
+    padding: 10px;
+
+}
+.box1{
+    border-style: dashed;
+    border-color: black;
+}
+p{
+    font-size:larger;
+}
+.top {
+    background-color: black;
+    height: 35px;
+    
+    }
+.top ul{
+    float:center;
+}
+.top ul li{
+    display: inline;
+}
+.top ul li a{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    justify-content: center;
+    padding-right: 5%;
+}
+.text1{
+height: fit-content;
+padding: 20px 20px 20px 20px;
+}
+.text2{
+height: fit-content;
+padding: 20px 20px 20px 20px;
+
+}
+footer{
+    background-color: rgb(102, 102, 102);
+    color: black;
+    text-align: center;
+    height: 80px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-top: 20px;   
+}
